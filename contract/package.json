@@ -1,0 +1,15 @@
+{
+  "name": "lacasafans-contract",
+  "version": "1.0.0",
+  "description": "Solidity Smart Contract for La Casa Fans Project - Encode Solidity Bootcamp June Group 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  }
+}
