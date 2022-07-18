@@ -22,4 +22,9 @@ contract Heister is ERC721URIStorage {
         _tokenIds.increment();
         return newItemId;
     }
+
+    function totalTokens() public view returns (uint256) {
+        return _tokenIds.current();
+    }
+
 }
