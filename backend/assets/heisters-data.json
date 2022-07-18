@@ -5,7 +5,8 @@
         "gender" : "Male",
         "status" : "Alive",
         "job" : "Criminal Mastermind",
-        "actor" : "Álvaro Morte"
+        "actor" : "Álvaro Morte",
+        "imageCID" : "QmRMXjZmbUDfZxsJagZ83KTTUeMcKFQctqioYX5HinJ7pp"
     },
     "berlin": {
         "heistName" : "Berlin",
@@ -13,7 +14,8 @@
         "gender" : "Male",
         "status" : "Deceased",
         "job" : "Robber",
-        "actor" : "Pedro Alonso"
+        "actor" : "Pedro Alonso",
+        "imageCID" : "Qmc2gfACMnKEgB5UhD3vj8gjXrwRpmn4ST8mNJunR5qHte"
     },
     "tokyo": {
         "heistName" : "Tokyo",
@@ -21,7 +23,8 @@
         "gender" : "Female",
         "status" : "Deceased",
         "job" : "Robber",
-        "actor" : "Úrsula Corberó"
+        "actor" : "Úrsula Corberó",
+        "imageCID" : "QmNS4BukzB9gwbEopmUkYewvDEcBp6gk2XFQtdqcN9MQri"
     },
     "denver": {
         "heistName" : "Denver",
@@ -29,7 +32,8 @@
         "gender" : "Male",
         "status" : "Alive",
         "job" : "Robber",
-        "actor" : "Jaime Lorente"
+        "actor" : "Jaime Lorente",
+        "imageCID" : "QmUG7Vm456YwUvBcuDzyfZamGawcHWgsEt3CR6gS6UpzTS"
     },
     "helsinki": {
         "heistName" : "Helsinki",
@@ -37,7 +41,8 @@
         "gender" : "Male",
         "status" : "Alive",
         "job" : "Veteran War Criminal",
-        "actor" : "Darko Perić"
+        "actor" : "Darko Perić",
+        "imageCID" : "QmekPJy7Yxjpi4GboMeyzoJiXxDJAis5NuHo3i8R8AsVmD"
     },
     "lisbon": {
         "heistName" : "Lisbon",
@@ -45,7 +50,8 @@
         "gender" : "Female",
         "status" : "Alive",
         "job" : "Police Inspector",
-        "actor" : "Itziar Ituño"
+        "actor" : "Itziar Ituño",
+        "imageCID" : "QmRkptNEETRmvMGtkiDH8MtkakH7d8qKztbQAakjn1Tar4"
     },
     "manila": {
         "heistName" : "Manila",
@@ -53,7 +59,8 @@
         "gender" : "Female",
         "status" : "Alive",
         "job" : "Hostage Control Robber",
-        "actor" : "Belén Cuesta"
+        "actor" : "Belén Cuesta",
+        "imageCID" : "QmQTZuco1dU2BJwHprb8VJH6eduL7kGNJZPN26g18Gh9w6"
     },
     "nairobi": {
         "heistName" : "Nairobi",
@@ -61,7 +68,8 @@
         "gender" : "Female",
         "status" : "Alive",
         "job" : "Robber",
-        "actor" : "Alba Flores"
+        "actor" : "Alba Flores",
+        "imageCID" : "QmRAAg6FYHABvn3Cii2rV9iWRWeyWBZkYKH93X9jcpo5kc"
     },
     "rio": {
         "heistName" : "Rio",
@@ -69,7 +77,8 @@
         "gender" : "Male",
         "status" : "Alive",
         "job" : "Hacker",
-        "actor" : "Miguel Herrán"
+        "actor" : "Miguel Herrán",
+        "imageCID" : "QmWqDjgZW5UodPu2NMYF21DrRnvE5BBHj2ktrgWuQ2rKST"
     },
     "stockholm": {
         "heistName" : "Stockholm",
@@ -77,6 +86,7 @@
         "gender" : "Female",
         "status" : "Alive",
         "job" : "Management Secretary",
-        "actor" : "Esther Acebo"
+        "actor" : "Esther Acebo",
+        "imageCID" : "QmZoCKWeJj5oVZAjvwfKBFgJWr5YxtBJZfNGnZB62KesyP"
     }
 }
