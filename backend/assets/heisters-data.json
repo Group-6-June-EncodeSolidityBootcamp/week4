@@ -1,0 +1,82 @@
+{
+    "professor": {
+        "heistName" : "The professor",
+        "name" : "Sergio Marquina",
+        "gender" : "Male",
+        "status" : "Alive",
+        "job" : "Criminal Mastermind",
+        "actor" : "Álvaro Morte"
+    },
+    "berlin": {
+        "heistName" : "Berlin",
+        "name" : "Andrés de Fonollosa Gonzalves",
+        "gender" : "Male",
+        "status" : "Deceased",
+        "job" : "Robber",
+        "actor" : "Pedro Alonso"
+    },
+    "tokyo": {
+        "heistName" : "Tokyo",
+        "name" : "Silene Oliveira",
+        "gender" : "Female",
+        "status" : "Deceased",
+        "job" : "Robber",
+        "actor" : "Úrsula Corberó"
+    },
+    "denver": {
+        "heistName" : "Denver",
+        "name" : "Daniel Ramos",
+        "gender" : "Male",
+        "status" : "Alive",
+        "job" : "Robber",
+        "actor" : "Jaime Lorente"
+    },
+    "helsinki": {
+        "heistName" : "Helsinki",
+        "name" : "Mirko Dragic",
+        "gender" : "Male",
+        "status" : "Alive",
+        "job" : "Veteran War Criminal",
+        "actor" : "Darko Perić"
+    },
+    "lisbon": {
+        "heistName" : "Lisbon",
+        "name" : "Raquel Murillo Fuentes",
+        "gender" : "Female",
+        "status" : "Alive",
+        "job" : "Police Inspector",
+        "actor" : "Itziar Ituño"
+    },
+    "manila": {
+        "heistName" : "Manila",
+        "name" : "Julia Martínez",
+        "gender" : "Female",
+        "status" : "Alive",
+        "job" : "Hostage Control Robber",
+        "actor" : "Belén Cuesta"
+    },
+    "nairobi": {
+        "heistName" : "Nairobi",
+        "name" : "Ágata Jiménez",
+        "gender" : "Female",
+        "status" : "Alive",
+        "job" : "Robber",
+        "actor" : "Alba Flores"
+    },
+    "rio": {
+        "heistName" : "Rio",
+        "name" : "Aníbal Cortes",
+        "gender" : "Male",
+        "status" : "Alive",
+        "job" : "Hacker",
+        "actor" : "Miguel Herrán"
+    },
+    "stockholm": {
+        "heistName" : "Stockholm",
+        "name" : "Mónica Gaztambide",
+        "gender" : "Female",
+        "status" : "Alive",
+        "job" : "Management Secretary",
+        "actor" : "Esther Acebo"
+    }
+}
