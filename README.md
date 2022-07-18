@@ -1,4 +1,4 @@
-# Weekend 3 Project by Group 6
+# Weekend 4 Project by Group 6
 
 Abdul Samad (sam_d#6030)
 
@@ -13,4 +13,4 @@ Nikhil (phoenikx#5624)
 
 
 # Link to report:
-### <a href="#"> LINK TO REPORT </a>
+### <a href="https://docs.google.com/document/d/1qtfnlGhG7JMJlCJgGKB7Gx7R6qPBiMPYTNc8vKKnm-w/edit?usp=sharing"> https://docs.google.com/document/d/1qtfnlGhG7JMJlCJgGKB7Gx7R6qPBiMPYTNc8vKKnm-w/edit?usp=sharing </a>
