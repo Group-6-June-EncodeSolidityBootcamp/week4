@@ -1,4 +1,4 @@
-#La Casa Fans Backend
+# La Casa Fans Backend
 
 This is a simple Express js app. To run locally, do:
 
