@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { ethers } from "ethers";
 
@@ -31,7 +30,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save to reload. Or just stare here :/
+          Edit <code>src/App.js</code> and save to reload. Or just stare here :)
         </p>
       </header>
     </div>
