@@ -30,7 +30,7 @@ function App() {
 
     // Get NFT Datas
     const tokenDatas = [];
-    setStatus("Getting Token Datas...");
+    setStatus("Getting Token Data...");
     const promises = [];
     tokenURIs.forEach((tokenURI) => {
       promises.push(fetch(tokenURI));
