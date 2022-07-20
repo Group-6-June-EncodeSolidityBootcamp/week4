@@ -70,7 +70,7 @@ function App() {
           {NFTs.map((nft, index) => (
             <div key={index}>
               <div className="nft-card">
-                <img className="nft-image" src={IPFS_URL + nft.imageCID}></img>
+                <img className="nft-image" src={IPFS_URL + nft.imageCID} alt=""></img>
                 <p className="nft-name">{nft.heistName}</p>
               </div>
             </div>
