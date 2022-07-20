@@ -1,4 +1,4 @@
-export default [
+export default HeisterABI = [
     {
       "inputs": [],
       "stateMutability": "nonpayable",
@@ -371,4 +371,4 @@ export default [
       "stateMutability": "nonpayable",
       "type": "function"
     }
-  ]
+  ];
