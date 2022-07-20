@@ -1,4 +1,4 @@
-export default HeisterABI = [
+const HeisterABI = [
     {
       "inputs": [],
       "stateMutability": "nonpayable",
@@ -372,3 +372,5 @@ export default HeisterABI = [
       "type": "function"
     }
   ];
+
+  export default HeisterABI;
